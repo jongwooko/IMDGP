@@ -1,7 +1,7 @@
 # Deep Gaussian Process Models for Integrating Multifidelity Experiments with Non-stationary Relationships
 
 This repository contains code for the paper
-**"Deep Gaussian Process Models for Integrating Multifidelity Experiments with Non-stationary Relationships"** 
+**"Deep Gaussian Process Models for Integrating Multifidelity Experiments with Non-stationary Relationships"**
 by Jongwoo Ko and Heeyoung Kim.
 
 ## Requirements
